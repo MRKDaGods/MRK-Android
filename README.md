@@ -7,7 +7,7 @@ CURRENT VERSION: 1.e.25b
 
 Easily hookable into any android application(apk)
 -
-Basic GL drawing methods
+Basic GL Drawing API (Similar to UnityEngine.GUI)
 -
 Dynamic Component system(SOON)
 -
