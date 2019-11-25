@@ -1,0 +1,3 @@
+ndk {
+            abiFilters "armeabi-v7a"
+}

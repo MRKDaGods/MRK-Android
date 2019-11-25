@@ -1,0 +1,4 @@
+<uses-feature android:glEsVersion="0x00020000" android:required="true" />
+
+IF YOU PLAN ON USING THE BACK GL
+android:theme="@style/Theme.AppCompat.NoActionBar"
