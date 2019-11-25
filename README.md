@@ -1,5 +1,5 @@
 # MRK-Android
-Multi-Utility dynamic library for Android
+Multi-Utility Native Dynamic Library for Android
 
 Arch: ARMv7
 
