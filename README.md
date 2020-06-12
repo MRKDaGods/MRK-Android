@@ -1,6 +1,9 @@
 # MRK-Android
 Multi-Utility Native Dynamic Library for Android
 
+# UPDATE (June 12 2020)
+  -Committing soon!
+
 Arch: ARMv7
 
 CURRENT VERSION: 1.e.25b
